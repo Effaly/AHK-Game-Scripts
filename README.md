@@ -6,8 +6,12 @@ You can open the .ahk files with any text editor and change the timings or the k
 ## How to use the scripts
 1. Download [AutoHotKey](https://www.autohotkey.com/) and install
 2. Download the scripts
-3. Double-click the scripts
-4. That's it.
+3. Make sure your PC uses AHK to open the .ahk files
+4. Double-click the scripts
+5. That's it
+
+### AUTOCLICKER
+Should be self-explanatory. Autoclicks when pressing `F10` and stops by pressing again. 
 
 ### AUTOWALK IN EVERY GAME
 This script allows you to auto-walk by pressing `NumLock` in every game, whether auto-walk is supported or not. 

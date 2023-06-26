@@ -17,8 +17,8 @@ Should be self-explanatory. Autoclicks when pressing `F10` and stops by pressing
 This script allows you to auto-walk by pressing `NumLock` in every game, whether auto-walk is supported or not. 
 
 ### DAI SEARCH SCRIPT (Dragon Age Inquisition Script)
-This script triggers the search every 3 seconds when pressing F8. Pressing it again turns it off again. 
+This script triggers the search every 3 seconds when pressing `F8`. Pressing it again turns it off again. 
 I also highly recommend the Mods [Search Radius Increased](https://www.nexusmods.com/dragonageinquisition/mods/1442) and [No Search Pulse Visualization](https://www.nexusmods.com/dragonageinquisition/mods/3171) 
 
 ### DAO ITEMHIGHTLIGHT SCRIPT (Dragon Age Origins Script) 
-This script highlights any interactable item near you for 5 seconds every 5 seconds. 
+This script highlights any interactable item near you for 5 seconds every 5 seconds by pressing `F8`. 

@@ -7,5 +7,6 @@ While Toggle
     Send, {Tab down} ; 
     sleep, 5000    ; Holds Tab down for 5 seconds
     Send, {Tab up} ; Releases the key 
+    sleep, 5000
 }
 return

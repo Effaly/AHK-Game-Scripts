@@ -7,7 +7,10 @@ You can open the .ahk files with any text editor and change the timings or the k
 1. Download [AutoHotKey](https://www.autohotkey.com/) and install
 2. Download the scripts
 3. Double-click the scripts
-4. That's it. 
+4. That's it.
+
+### AUTOWALK IN EVERY GAME
+This script allows you to auto-walk by pressing `NumLock` in every game, whether auto-walk is supported or not. 
 
 ### DAI SEARCH SCRIPT (Dragon Age Inquisition Script)
 This script triggers the search every 3 seconds when pressing F8. Pressing it again turns it off again. 
@@ -15,6 +18,3 @@ I also highly recommend the Mods [Search Radius Increased](https://www.nexusmods
 
 ### DAO ITEMHIGHTLIGHT SCRIPT (Dragon Age Origins Script) 
 This script highlights any interactable item near you for 5 seconds every 5 seconds. 
-
-### AUTOWALK IN EVERY GAME
-This script allows you to auto-walk by pressing `NumLock` in every game, whether auto-walk is supported or not. 
